@@ -4,6 +4,7 @@ margin:0;
 padding:0;
 box-sizing: border-box;
 font-family: Verdana, Geneva, Thoma, sans-serif;
+color: white;
 }
 
 footer {background-color: #A6C396;
@@ -24,7 +25,7 @@ header {background-color:  #a3c4a1;
 }
 
 body {
-	background-color: white;
+	background-color: black;
 	height: 100vh;
 	display:flex;
 	flex-direction:column;
@@ -42,7 +43,7 @@ ul,li {
 
 a{
 	text-decoration: none;
-	color: black;
+	color: white;
 }
 
 .menu{
